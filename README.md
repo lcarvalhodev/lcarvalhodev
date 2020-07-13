@@ -4,7 +4,7 @@ My name is Leandro Almeida from Brazil (🇧🇷). Currently I'm working at GREa
 
 Skills:
 - Android Developer
-- Test Analyst (Web abd Mobile)
+- Test Analyst (Web and Mobile)
 - Frontend Developer (React and Gatsby)
 - Flutter enthusiast
 
