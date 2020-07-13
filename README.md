@@ -10,9 +10,9 @@ Skills:
 
 Always looking to learn something new, life is basically learning.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=lcarvalhodev&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SulthanNK.SulthanNK)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lcarvalhodev)
 
 Would you like to find me?
 
