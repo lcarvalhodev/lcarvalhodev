@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! 😁
 
-<!--
-**lcarvalhodev/lcarvalhodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Leandro Almeida from Brazil (🇧🇷). Currently I'm working at GREat - CE.
 
-Here are some ideas to get you started:
+Skills:
+- Android Developer
+- Test Analyst (Web abd Mobile)
+- Frontend Developer (React and Gatsby)
+- Flutter enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always looking to learn something new, life is basically learning.
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-carvalho-dev)](https://www.linkedin.com/in/leandro-carvalho-dev)
