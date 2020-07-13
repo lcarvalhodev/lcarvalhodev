@@ -1,4 +1,4 @@
-### Hi there! 😁
+### Hello! 😁
 
 My name is Leandro Almeida from Brazil (🇧🇷). Currently I'm working at GREat - CE.
 
