@@ -1,6 +1,6 @@
 ### Hello world <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">, I'm Leandro ! 
 
-I'm Full Stack Developer from Brazil (🇧🇷). Currently I'm working at GREat - CE.
+I'm a Full Stack Developer from Brazil (🇧🇷). Currently I'm working at GREat - CE.
 
 ## Skills:
 - Android Developer
@@ -17,7 +17,16 @@ I'm Full Stack Developer from Brazil (🇧🇷). Currently I'm working at GREat 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
-Always looking to learn something new, life is basically learning.
+### <img src="https://media.giphy.com/media/l49K1cDZt3ecf7Vss/giphy.gif" width="50"> A little more about me...  
+
+### About me...  
+
+```javascript
+const leandro = {
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, Flutter],
+  tools: [React, Redux, Node,Gatsby, Selenium, UiAutomatorViewer],
+  challenge: "Be better than yesterday"
+}
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=lcarvalhodev&show_icons=true)
 
