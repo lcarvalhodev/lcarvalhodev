@@ -2,7 +2,7 @@
 
 I'm Full Stack Developer from Brazil (🇧🇷). Currently I'm working at GREat - CE.
 
-Skills:
+## Skills:
 - Android Developer
 - Test Analyst (Web and Mobile)
 - Frontend Developer (React and Gatsby)
