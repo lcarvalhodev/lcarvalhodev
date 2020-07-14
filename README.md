@@ -1,6 +1,6 @@
 ### Hello world <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">, I'm Leandro ! 
 
-My name is Leandro Almeida from Brazil (🇧🇷). Currently I'm working at GREat - CE.
+I'm Full Stack Developer from Brazil (🇧🇷). Currently I'm working at GREat - CE.
 
 Skills:
 - Android Developer
