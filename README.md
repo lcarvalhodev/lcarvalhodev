@@ -17,17 +17,6 @@ I'm a Full Stack Developer from Brazil (🇧🇷). Currently I'm working at GREa
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
-### <img src="https://media.giphy.com/media/l49K1cDZt3ecf7Vss/giphy.gif" width="50"> A little more about me...  
-
-### About me...  
-
-```javascript
-const leandro = {
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, Flutter],
-  tools: [React, Redux, Node,Gatsby, Selenium, UiAutomatorViewer],
-  challenge: "Be better than yesterday"
-}
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=lcarvalhodev&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lcarvalhodev)
