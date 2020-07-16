@@ -29,7 +29,7 @@ const leandro = {
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=lcarvalhodev&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lcarvalhodev)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lcarvalhodev) 
 
 Would you like to find me?
 
