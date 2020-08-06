@@ -1,6 +1,6 @@
 ### Hello world <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">, I'm Leandro ! 
 
-I'm a Full Stack Developer from Brazil (🇧🇷). Currently working at GREat - CE.
+I'm a Full Stack Developer (in progress) from Brazil (🇧🇷). Currently working at GREat - CE.
 
 ## Skills:
 - Android Developer
