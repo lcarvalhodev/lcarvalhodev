@@ -4,8 +4,8 @@ I'm a Full Stack Developer (in progress) from Brazil (🇧🇷). Currently worki
 
 ## Skills:
 - Android Developer
-- Test Analyst (Web and Mobile)
-- Frontend Developer (React and Gatsby)
+- Test Analyst (Manual and Automation)
+- Frontend Developer
 - Flutter enthusiast
 
 **Languages:**  
