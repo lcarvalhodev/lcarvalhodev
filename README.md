@@ -5,8 +5,7 @@ I'm a Full Stack Developer (in progress) from Brazil (🇧🇷). Currently worki
 ## Skills:
 - Android Developer
 - Test Analyst (Manual and Automation)
-- Frontend Developer
-- Flutter enthusiast
+- FullStack Developer
 
 **Languages:**  
 
@@ -21,8 +20,8 @@ I'm a Full Stack Developer (in progress) from Brazil (🇧🇷). Currently worki
 
 ```javascript
 const leandro = {
-  code: [Javascript, Typescript, Python, Java, Flutter],
-  tools: [React, Redux, Node,Gatsby, Selenium, UiAutomatorViewer],
+  code: [Javascript, Typescript, Java, Flutter],
+  tools: [React, Redux, Node, Gatsby, Selenium, UiAutomatorViewer],
   challenge: "Be better than yesterday"
 }
 ```
