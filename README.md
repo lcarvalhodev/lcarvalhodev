@@ -4,8 +4,9 @@ I'm a Full Stack Developer (in progress) from Brazil (🇧🇷). Currently worki
 
 ## Skills:
 - Android Developer
-- Test Analyst (Manual and Automation)
+- Frontend Developer
 - Backend Developer
+- Test Analyst (Manual and Automation)
 
 **Languages:**  
 
