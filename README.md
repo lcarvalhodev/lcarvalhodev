@@ -19,7 +19,7 @@ I'm a Full Stack Developer (in progress) from Brazil (🇧🇷). Currently worki
 ```javascript
 const leandro = {
   code: [Javascript, Typescript, Java, Flutter],
-  tools: [Node, Gatsby, Selenium, UiAutomatorViewer],
+  tools: [Node, React, Selenium, UiAutomatorViewer],
   challenge: "Be better than yesterday"
 }
 ```
