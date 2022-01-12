@@ -1,6 +1,6 @@
-### Hello world, I'm Leandro ! 
+### Hello world, I'm Leandro Carvalho! 
 
-I'm a Full Stack Developer (in progress) from Brazil (🇧🇷). Currently working at GREat - CE.
+I'm a Full Stack Developer (work in progress) from Brazil (🇧🇷). Currently working at GREat - CE.
 
 ## Skills:
 - Android Developer
@@ -20,7 +20,7 @@ I'm a Full Stack Developer (in progress) from Brazil (🇧🇷). Currently worki
 ```javascript
 const leandro = {
   code: [Javascript, Typescript, Java, Flutter],
-  tools: [Node, React, Selenium, UiAutomatorViewer],
+  tools: [Node, React, Strapi, Selenium, UiAutomatorViewer],
   challenge: "Be better than yesterday"
 }
 ```
