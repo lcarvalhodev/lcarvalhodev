@@ -6,7 +6,7 @@ I'm a Full Stack Developer (work in progress) from Brazil (🇧🇷). Currently 
 - Android Developer
 - Frontend Developer
 - Backend Developer
-- Test Analyst (Manual and Automation)
+- Test Analyst
 
 **Languages:**  
 
@@ -19,7 +19,7 @@ I'm a Full Stack Developer (work in progress) from Brazil (🇧🇷). Currently 
 
 ```javascript
 const leandro = {
-  code: [Javascript, Typescript, Java, Flutter],
+  code: [Typescript, Java, Flutter],
   tools: [Node, React, Strapi, Selenium, UiAutomatorViewer],
   challenge: "Be better than yesterday"
 }
