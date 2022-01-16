@@ -30,4 +30,3 @@ const leandro = {
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-carvalho-dev)](https://www.linkedin.com/in/leandro-carvalho-dev)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lcarvalhodev.lcarvalhodev)
