@@ -4,8 +4,7 @@ I'm a Full Stack Develope from Brazil (🇧🇷). Currently working at GREat - C
 
 ## Skills:
 - Android Developer
-- Frontend Developer
-- Backend Developer
+- Full Stack Developer
 - Test Analyst
 
 **Languages:**  
