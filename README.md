@@ -1,6 +1,6 @@
-### Hello world, I'm Leandro Carvalho! 
+### Hello world, I'm Leandro Almeida! 
 
-I'm a Full Stack Develope from Brazil (🇧🇷). Currently working at GREat - CE.
+I'm a Full Stack Developer from Brazil (🇧🇷). Currently working at GREat - CE.
 
 ## Skills:
 - Android Developer
