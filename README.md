@@ -23,7 +23,6 @@ const leandro = {
 }
 ```
 
-![github stats](https://github-readme-stats.vercel.app/api?username=lcarvalhodev&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcarvalhodev&hide=TeX&layout=compact)
 
 Would you like to find me?
