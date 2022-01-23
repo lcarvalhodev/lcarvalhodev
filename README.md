@@ -1,4 +1,4 @@
-### Hello world, I'm Leandro Almeida! 
+### Hello world, I'm Leandro Carvalho! 
 
 I'm a Full Stack Developer from Brazil (🇧🇷). Currently working at GREat - CE.
 
@@ -22,8 +22,6 @@ const leandro = {
   challenge: "Be better than yesterday"
 }
 ```
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcarvalhodev&hide=TeX&layout=compact)
 
 Would you like to find me?
 
