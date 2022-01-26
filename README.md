@@ -3,7 +3,6 @@
 I'm a Full Stack Developer from Brazil (🇧🇷). Currently working at GREat - CE.
 
 ## Skills:
-- Android Developer
 - Full Stack Developer
 - IoS Developer
 - Test Analyst
