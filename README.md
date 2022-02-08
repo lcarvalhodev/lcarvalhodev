@@ -18,7 +18,7 @@ I'm a Full Stack Developer from Brazil (🇧🇷). Currently working at GREat - 
 ```javascript
 const leandro = {
   code: [Typescript, Java, Dart],
-  tools: [Node, React, Strapi, Selenium],
+  tools: [Node, React, Flutter, Selenium],
   challenge: "Be better than yesterday"
 }
 ```
