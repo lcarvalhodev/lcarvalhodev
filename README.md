@@ -16,7 +16,7 @@ I'm a Full Stack Developer from Brazil. Currently working at GREat - CE.
 
 ```javascript
 const leandro = {
-  code: [Typescript, Java, Swift],
+  code: [Java, TypeScript, Swift],
   challenge: "Be better than yesterday"
 }
 ```
