@@ -11,13 +11,14 @@ I'm a Full Stack Developer from Brazil. Currently working at GREat - CE.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
 ### About me
 
 ```javascript
 const leandro = {
-  code: [TypeScript, Java, Swift, Flutter],
+  code: [TypeScript, Java, Swift, Dart],
+  tools: [NodeJs, ReactJs, Spring Boot, Flutter]
   challenge: "Be better than yesterday"
 }
 ```
