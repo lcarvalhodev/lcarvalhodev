@@ -22,10 +22,6 @@ const leandro = {
   challenge: "Be better than yesterday"
 }
 ```
-<p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=lcarvalhodev&show_icons=true&hide_border=true" width = 400 height = 200>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcarvalhodev&layout=compact&langs_count=8" width = 400 height = 200/>
-</p>
 
 Would you like to find me?
 
