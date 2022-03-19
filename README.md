@@ -1,6 +1,8 @@
 ### Hello world, I'm Leandro Carvalho! 
 
-I'm a Full Stack Developer from Brazil. Currently working at GREat - CE(UFC).
+I'm a Full Stack Developer from Brazil. Currently working at GREat - CE.
+Master's Degree student in Software Engineering (Federal University of Ceara).
+
 
 ## Skills:
 - Full Stack Developer
