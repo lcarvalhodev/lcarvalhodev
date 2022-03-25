@@ -1,6 +1,6 @@
 ### Hello world, I'm Leandro Carvalho! 
 
-- Full Stack Developer currently working at GREat - CE.
+- Developer currently working at GREat - CE.
 - Master's Degree student in Software Engineering (Federal University of Ceara).
 
 
