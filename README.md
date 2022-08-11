@@ -20,7 +20,7 @@
 
 ```javascript
 const leandro = {
-  code: [TypeScript, Java, Swift, Dart],
+  code: [TypeScript, Java, Kotlin, Swift],
   tools: [NodeJs, Android, IOS, Cypress]
   challenge: "Be better than yesterday"
 }
