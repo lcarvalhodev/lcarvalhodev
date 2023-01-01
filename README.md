@@ -3,24 +3,22 @@
 - QA currently working at Invillia - Br.
 - Master's Degree student in Software Engineering (Federal University of Ceara).
 
-
 ## Skills:
-- IoS Developer
-- Android Developer\
 - QA Agile
+- Mobile Developer (iOS and Android)
 
 **Languages:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 ### About me
 
 ```javascript
 const leandro = {
-  code: [Swift, TypeScript, Java, Kotlin],
-  tools: [NodeJs, Android, IOS, Cypress]
+  code: [TypeScript, Swift, Kotlin],
+  tools: [Cypress, Android, iOS]
   challenge: "Be better than yesterday"
 }
 ```
