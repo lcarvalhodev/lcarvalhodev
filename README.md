@@ -17,8 +17,8 @@
 
 ```javascript
 const leandro = {
-  code: [TypeScript, Swift, Kotlin],
-  tools: [Cypress, Android, iOS]
+  code: [TypeScript, Swift],
+  tools: [Cypress, iOS]
   challenge: "Be better than yesterday"
 }
 ```
