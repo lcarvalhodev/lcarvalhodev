@@ -23,7 +23,7 @@ const leandro = {
 }
 ```
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcarvalhodev&langs_count=9&layout=compact)
 <a height="50em" href="http://www.github.com/lcarvalhodev"><img height="164em" src="https://github-readme-streak-stats.herokuapp.com/?user=lcarvalhodev&stroke=grey&theme=grey&ring=3985EE&fire=3985EE&currStreakNum=black&currStreakLabel=3985EE&sideNums=black&sideLabels=3985EE&dates=black&hide_border=false"/></a>
 
 
