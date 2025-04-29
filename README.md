@@ -1,6 +1,6 @@
 ### Hello world, I'm Leandro Carvalho! 
 
-- QA currently working at Invillia - Br.
+- QA 
 - Master's Degree student in Software Engineering (Federal University of Ceara).
 
 ## Skills:
